@@ -1,5 +1,6 @@
 <template>
     <div>
+        hello
         <HeaderComponent></HeaderComponent>
         <BodyComponent></BodyComponent>
         <FooterComponent></FooterComponent>
