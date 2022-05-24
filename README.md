@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=hncok&fontSize=90&desc=think%20design&rotate=20&FontAlign=80&FontAlignY=25&DescAlign=70)
+https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44
