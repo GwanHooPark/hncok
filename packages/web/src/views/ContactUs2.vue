@@ -13,8 +13,7 @@
 <script>
 export default {
     created() {
-        console.log('created22');
-        console.log(process.env);
+        console.log('created223333');
     },
 };
 </script>

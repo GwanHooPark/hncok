@@ -17,7 +17,7 @@ const routes = [
     },
     {
         path: '/contactus2',
-        component: ContactUs,
+        component: ContactUs2,
     },
 ];
 
